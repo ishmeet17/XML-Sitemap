@@ -1,0 +1,31 @@
+Home
+│
+├── About Us
+├── Contact Us
+├── Product Categories
+│   ├── Electronics
+│   │   ├── Smartphone Model X
+│   │   ├── Laptop ABC
+│   │   └── Headphones XYZ
+│   ├── Clothing
+│   │   ├── Men's Jacket
+│   │   ├── Women's Dress
+│   │   └── Casual Shoes
+│   ├── Home Appliances
+│   │   ├── Vacuum Cleaner
+│   │   ├── Microwave
+│   │   └── Coffee Maker
+│   └── Sports & Outdoors
+│       ├── Hiking Backpack
+│       ├── Tennis Racket
+│       └── Running Shoes
+│
+├── Shopping Cart
+├── Checkout
+├── Your Account
+│   ├── Order History
+│   ├── Wishlist
+│   └── Account Settings
+│
+├── Terms and Conditions
+└── Privacy Policy
